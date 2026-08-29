@@ -75,18 +75,6 @@ Business data analysis and visualization project developed with Power BI.
 
 ---
 
-## 📈 GitHub Stats
-
-<div align="center">
-
-  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=NorbertoJunior&show_icons=true&theme=github_dark&hide_border=true" />
-
-  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NorbertoJunior&layout=compact&theme=github_dark&hide_border=true" />
-
-</div>
-
----
-
 ## 🤝 Connect With Me
 
 <p align="left">
